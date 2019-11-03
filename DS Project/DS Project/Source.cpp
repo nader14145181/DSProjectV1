@@ -5,6 +5,7 @@
 #include "GUI\GUIDrawables\VIPGUIElement.h"
 #include "GUI\GUI.h"
 
+
 int GUIDemo()
 {
 	GUI gui;
@@ -35,6 +36,7 @@ int GUIDemo()
 	
 	return 0;
 }
+
 
 int main() {
 	/*
