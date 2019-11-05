@@ -141,7 +141,6 @@
     <ClCompile Include="GUI\GUIDrawables\NormalGUIElement.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="LinkedQueue.cpp" />
-    <ClCompile Include="PriorityQueue.cpp" />
     <ClCompile Include="QueueADT.cpp" />
     <ClCompile Include="Rest\Cook.cpp" />
     <ClCompile Include="Rest\Order.cpp" />
@@ -166,7 +165,6 @@
     <ClInclude Include="GUI\GUIDrawables\NormalGUIElement.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="LinkedQueue.h" />
-    <ClInclude Include="PriorityQueue.h" />
     <ClInclude Include="QueueADT.h" />
     <ClInclude Include="Rest\Cook.h" />
     <ClInclude Include="Rest\Order.h" />

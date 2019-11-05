@@ -66,7 +66,6 @@
     <ClCompile Include="ArrayStack.cpp" />
     <ClCompile Include="QueueADT.cpp" />
     <ClCompile Include="LinkedQueue.cpp" />
-    <ClCompile Include="PriorityQueue.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Defs.h" />
@@ -116,7 +115,6 @@
     <ClInclude Include="ArrayStack.h" />
     <ClInclude Include="QueueADT.h" />
     <ClInclude Include="LinkedQueue.h" />
-    <ClInclude Include="PriorityQueue.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Resources\logo.png">
